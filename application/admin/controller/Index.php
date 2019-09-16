@@ -5,6 +5,6 @@ class Index
 {
     public function index()
     {
-        return 'hello,thinkphp111111111111111111111111520!';
+        return '我对你爱爱爱不完';
     }
 }
