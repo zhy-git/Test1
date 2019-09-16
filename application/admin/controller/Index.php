@@ -5,6 +5,6 @@ class Index
 {
     public function index()
     {
-        return '11111112342343534tfergre好呗';
+        return 'ruhe ni zhende yaozohu o ';
     }
 }
