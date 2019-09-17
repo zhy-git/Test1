@@ -5,6 +5,6 @@ class Index
 {
     public function index()
     {
-        return '我是中国人民解放军';
+        return '我是中国人民解放军空军。';
     }
 }
