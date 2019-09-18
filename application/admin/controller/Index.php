@@ -5,6 +5,6 @@ class Index
 {
     public function index()
     {
-        return '你112312311231232自由';
+        return '你1123123112两款手机啊电缆附件来说自由';
     }
 }
