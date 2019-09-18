@@ -5,6 +5,6 @@ class Index
 {
     public function index()
     {
-        return '你1自由';
+        return '你112312312自由';
     }
 }
