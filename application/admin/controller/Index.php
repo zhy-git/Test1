@@ -5,6 +5,6 @@ class Index
 {
     public function index()
     {
-        return '1123423423站在天边21231的彩虹';
+        return '1123423423站在sdfsd天边21231的彩虹';
     }
 }
