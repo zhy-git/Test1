@@ -18,6 +18,15 @@ class Index
 	 */
     public function index()
     {
-        return '111222233334444';
+        return '111222233334444555';
     }
+    /**
+	 * @api {POST} /product_release 产品投放列表
+	 * @apiVersion 0.0.1
+	 * @apiGroup ProductRelease
+	 *
+	 * @apiParam {Number} [page=1] 页码
+	 * @apiParam {Number} [limit=10] 条数
+	 * 
+	 */
 }

@@ -40,5 +40,14 @@ class Index
     {
         return '我想风一样的自111222333由';
     }
+    /**
+     * @api {POST} /product_release 产品投放列表
+     * @apiVersion 0.0.1
+     * @apiGroup ProductRelease
+     *
+     * @apiParam {Number} [page=1] 页码
+     * @apiParam {Number} [limit=10] 条数
+     * 
+     */
 
 }
