@@ -4,7 +4,7 @@ namespace app\index\controller;
 class Index
 {
 	/**
-	 * @api {POST} /client_order 订单列表
+	 * @api {POST} /client_order 订单列表6666666
 	 * @apiVersion 0.0.1
 	 * @apiGroup ClientOrder
 	 *
@@ -18,7 +18,7 @@ class Index
 	 */
     public function index()
     {
-        return '111222233334444555';
+        return '111222233334444555666666666';
     }
     /**
 	 * @api {POST} /product_release 产品投放列表
