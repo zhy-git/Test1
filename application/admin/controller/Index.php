@@ -4,7 +4,7 @@ namespace app\admin\controller;
 class Index
 {
 	/**
-     * @api {POST} /client/read 商户详情(查看)
+     * @api {POST} /client/read 商户详情(查看)不要逼我
      * @apiVersion 0.0.1
      * @apiGroup Client
      *
@@ -38,7 +38,7 @@ class Index
      */
     public function index()
     {
-        return '我想风一样的自111222333由';
+        return '如今我是一个人在听歌，总觉你在我耳边幻听。';
     }
     /**
      * @api {POST} /product_release 产品投放列表
@@ -49,5 +49,142 @@ class Index
      * @apiParam {Number} [limit=10] 条数
      * 
      */
+        /**
+     * @api {POST} /product_release 产品投放列表
+     * @apiVersion 0.0.1
+     * @apiGroup ProductRelease
+     *
+     * @apiParam {Number} [page=1] 页码
+     * @apiParam {Number} [limit=10] 条数
+     * 
+     */
+            /**
+     * @api {POST} /product_release 产品投放列表
+     * @apiVersion 0.0.1
+     * @apiGroup ProductRelease
+     *
+     * @apiParam {Number} [page=1] 页码
+     * @apiParam {Number} [limit=10] 条数
+     * 
+     */
+                /**
+     * @api {POST} /product_release 产品投放列表
+     * @apiVersion 0.0.1
+     * @apiGroup ProductRelease
+     *
+     * @apiParam {Number} [page=1] 页码
+     * @apiParam {Number} [limit=10] 条数
+     * 
+     */
+                    /**
+     * @api {POST} /product_release 产品投放列表
+     * @apiVersion 0.0.1
+     * @apiGroup ProductRelease
+     *
+     * @apiParam {Number} [page=1] 页码
+     * @apiParam {Number} [limit=10] 条数
+     * 
+     */
+                        /**
+     * @api {POST} /product_release 产品投放列表
+     * @apiVersion 0.0.1
+     * @apiGroup ProductRelease
+     *
+     * @apiParam {Number} [page=1] 页码
+     * @apiParam {Number} [limit=10] 条数
+     * 
+     */
+                            /**
+     * @api {POST} /product_release 产品投放列表
+     * @apiVersion 0.0.1
+     * @apiGroup ProductRelease
+     *
+     * @apiParam {Number} [page=1] 页码
+     * @apiParam {Number} [limit=10] 条数
+     * 
+     */
+                                /**
+     * @api {POST} /product_release 产品投放列表
+     * @apiVersion 0.0.1
+     * @apiGroup ProductRelease
+     *
+     * @apiParam {Number} [page=1] 页码
+     * @apiParam {Number} [limit=10] 条数
+     * 
+     */
+                                    /**
+     * @api {POST} /product_release 产品投放列表
+     * @apiVersion 0.0.1
+     * @apiGroup ProductRelease
+     *
+     * @apiParam {Number} [page=1] 页码
+     * @apiParam {Number} [limit=10] 条数
+     * 
+     */
+                                        /**
+     * @api {POST} /product_release 产品投放列表
+     * @apiVersion 0.0.1
+     * @apiGroup ProductRelease
+     *
+     * @apiParam {Number} [page=1] 页码
+     * @apiParam {Number} [limit=10] 条数
+     * 
+     */
+                                            /**
+     * @api {POST} /product_release 产品投放列表
+     * @apiVersion 0.0.1
+     * @apiGroup ProductRelease
+     *
+     * @apiParam {Number} [page=1] 页码
+     * @apiParam {Number} [limit=10] 条数
+     * 
+     */
+
+                                                /**
+     * @api {POST} /product_release 产品投放列表
+     * @apiVersion 0.0.1
+     * @apiGroup ProductRelease
+     *
+     * @apiParam {Number} [page=1] 页码
+     * @apiParam {Number} [limit=10] 条数
+     * 
+     */
+                                                    /**
+     * @api {POST} /product_release 产品投放列表
+     * @apiVersion 0.0.1
+     * @apiGroup ProductRelease
+     *
+     * @apiParam {Number} [page=1] 页码
+     * @apiParam {Number} [limit=10] 条数
+     * 
+     */
+                                                        /**
+     * @api {POST} /product_release 产品投放列表
+     * @apiVersion 0.0.1
+     * @apiGroup ProductRelease
+     *
+     * @apiParam {Number} [page=1] 页码
+     * @apiParam {Number} [limit=10] 条数
+     * 
+     */
+                                                            /**
+     * @api {POST} /product_release 产品投放列表
+     * @apiVersion 0.0.1
+     * @apiGroup ProductRelease
+     *
+     * @apiParam {Number} [page=1] 页码
+     * @apiParam {Number} [limit=10] 条数
+     * 
+     */
+                                                                /**
+     * @api {POST} /product_release 产品投放列表
+     * @apiVersion 0.0.1
+     * @apiGroup ProductRelease
+     *
+     * @apiParam {Number} [page=1] 页码
+     * @apiParam {Number} [limit=10] 条数
+     * 
+     */
+                                                                
 
 }
