@@ -38,7 +38,7 @@ class Index
      */
     public function index()
     {
-        return '如今我是一个人在听歌，总觉你在我耳边幻听。';
+        return '如今我是一个人在听歌，总觉你在我耳边幻听。月色多温柔，你有多浪漫。';
     }
     /**
      * @api {POST} /product_release 产品投放列表
